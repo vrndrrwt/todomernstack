@@ -1,0 +1,44 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.navbar {
+  background-color: #282c34;
+  padding: 1rem;
+  color: white;
+}
+
+.navbar h1 {
+  display: inline;
+}
+
+.navbar ul {
+  list-style: none;
+  padding: 0;
+  display: inline;
+  float: right;
+}
+
+.navbar ul li {
+  display: inline;
+  margin-left: 20px;
+}
+
+.navbar ul li a {
+  color: white;
+  text-decoration: none;
+}
+
+.task-section {
+  padding: 2rem;
+}
+
+.footer {
+  background-color: #282c34;
+  color: white;
+  padding: 1rem;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
